@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Harsham, a passionate developer with a deep love for coding and problem-solving. Over the past few months, I've honed my skills and knowledge in coding, focusing mainly on Javascript, React and other frameworks, allowing me to tackle a wide range of projects and challenges.
+😁 I'm Harsham, a passionate developer with a deep love for coding and problem-solving. Over the past few months, I've honed my skills and knowledge in coding, focusing mainly on Javascript, React and other frameworks, allowing me to tackle a wide range of projects and challenges.
 
-My journey in the world of programming began with my initial fascination with systems (both automated and non-automated) and the creation that led to these systems. With my growing interest in this, it began to take over my life as for systems I'd encounter in my everyday life led to me pondering on how such systems are created and the process leading up to them. Since then, I have been on an exciting quest to learn and grow as a developer, constantly exploring new technologies and staying up-to-date with the latest industry trends to increase my understanding of newer technologies (and systems!).
+🚀 My journey in the world of programming began with my initial fascination with systems (both automated and non-automated) and the creation that led to these systems. With my growing interest in this, it began to take over my life as for systems I'd encounter in my everyday life led to me pondering on how such systems are created and the process leading up to them. Since then, I have been on an exciting quest to learn and grow as a developer, constantly exploring new technologies and staying up-to-date with the latest industry trends to increase my understanding of newer technologies (and systems!).
 
 A little interesting fact: As you can probably see to your left, that image is of the Santa Monica beach in California, aka my dream destination🤩
 
