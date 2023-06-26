@@ -34,7 +34,7 @@
 <br>
 <br>
 
-## ⚔️ Codewar
+## ⚔️ Codewars
 
 ![Codewars Badge](https://www.codewars.com/users/h4rsham/badges/large)
 <br>
