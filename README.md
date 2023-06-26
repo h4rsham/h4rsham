@@ -33,12 +33,10 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E" alt="Figma"/> </a>
 <br>
 <br>
-<br>
 
 ## ⚔️ Codewar
 
 ![Codewars Badge](https://www.codewars.com/users/h4rsham/badges/large)
-<br>
 <br>
 <br>
 
