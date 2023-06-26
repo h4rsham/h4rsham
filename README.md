@@ -1,4 +1,4 @@
-<h1 align="center">    Hi! 👋🏼   I'm Harsahm!  </h1>
+<h1 align="center">    Hi! 👋🏼   I'm Harsham!  </h1>
 <h4 align="center" >   I am a Junior Full-stack Web Developer 👨🏽‍💻 </h4>
 <h3 align="center">  About me 🚀   </h3>
 <p align="center" > 😁 I'm Harsham, a passionate developer with a deep love for coding and problem-solving. Over the past few months, I've honed my skills and knowledge in coding, focusing mainly on Javascript, React and other frameworks, allowing me to tackle a wide range of projects and challenges.
