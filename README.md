@@ -12,10 +12,9 @@
 
 <a href="https://www.linkedin.com/in/h4rsham/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="marwa-dawood | LinkedIn" width="35px"/> </a>
 <a href="mailto:harsham.latif@hotmail.com"> <img align="left" src="https://user-images.githubusercontent.com/102393807/209590242-2a31c21e-0f42-4934-b0ac-64bdccb87b7f.png" width="40px"/></a>
-
-
-
-
+<br>
+<br>
+<br>
 
 ## 🌐 Languages and Tools
 
@@ -34,16 +33,19 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E" alt="Figma"/> </a>
 <br>
 <br>
+<br>
 
 ## ⚔️ Codewar
 
 ![Codewars Badge](https://www.codewars.com/users/h4rsham/badges/large)
 <br>
 <br>
+<br>
 
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=h4rsham)](https://github.com/h4rsham)
+<br>
 <br>
 <br>
 
