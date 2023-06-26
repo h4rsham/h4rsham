@@ -32,15 +32,18 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&color=61DAFB" alt="Jest" /> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E" alt="Figma"/> </a>
 <br>
+<br>
 
 ## ⚔️ Codewar
 
 ![Codewars Badge](https://www.codewars.com/users/h4rsham/badges/large)
 <br>
+<br>
 
 ## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=h4rsham)](https://github.com/h4rsham)
+<br>
 <br>
 
 <!--
