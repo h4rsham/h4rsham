@@ -7,6 +7,7 @@
 
 - A little interesting fact: As you can probably see to your left, that image is of the Santa Monica beach in California, aka my dream destination🤩
 </p>
+<br>
 
 <h1 align="center">🤝🏼 Connect with me</h1>
 
@@ -15,8 +16,6 @@
 <br>
 <br>
 <br>
-
-<h1 align="center">🌐 Languages and Tools</h1>
 
 
 <h1 align="center">🛠 Tech Stack</h1>
