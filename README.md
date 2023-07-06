@@ -3,7 +3,7 @@
 <h3 align="center">  About me 🚀   </h3>
 <p align="center" > 😁 I'm an aspiring developer trained in Full Stack Development at the School of Code. A passionate developer with a deep love for coding and problem-solving. Over the past few months, I've honed my skills and knowledge in coding, focusing mainly on Javascript, React and other frameworks, allowing me to tackle a wide range of projects and challenges.
 
-🚀 My journey in the world of programming began with my initial fascination with systems and the creation that led to these systems. With my growing interest in this, it began to take over my life as for systems I'd encounter in my everyday life led to me pondering on how such systems are created and the process leading up to them. Since then, I have been on an exciting quest to learn and grow as a developer, constantly exploring new technologies and staying up-to-date with the latest industry trends to increase my understanding of newer technologies (and systems!). 
+🚀 My journey in the world of programming began with my initial fascination with the funcionality and creation of systems. As I grew through my adolescent years, my interest only grew further to a point where it began to take over my life. Systems I'd encounter in my everyday life led to me pondering on how they worked and were even created! Since then, I have been on an exciting quest to learn and grow as a developer, constantly exploring new technologies and staying up-to-date with the latest industry trends to increase my understanding of newer technologies. 
 
 - A little interesting fact: As you can probably see to your left, that image is of the Santa Monica beach in California, aka my dream destination🤩
 </p>
