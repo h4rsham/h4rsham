@@ -39,7 +39,7 @@
 
 <h1 align="center">⚔️ Codewars</h1>
 
-![Codewars Badge](https://www.codewars.com/users/h4rsham/badges/large)
+![Codewars Badge](https://github.r2v.ch/codewars?user=h4rsham&stroke=blue)
 <br>
 <br>
 
