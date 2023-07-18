@@ -45,10 +45,9 @@
 <br>
 <br>
 
-<h1 align="center">📈 GitHub & LeetCode Stats</h1>
+<h1 align="center">📈 GitHub Stats</h1>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=h4rsham)](https://github.com/h4rsham)
-![Leetcode Stats](https://leetcard.jacoblin.cool/h4rsham)
 
 <br>
 <br>
