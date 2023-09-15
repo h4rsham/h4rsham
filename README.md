@@ -7,7 +7,6 @@
 
 🤔 To satisfy my desire and pursue my passion, I have looked into multiple other programming languages as opposed to JavaScript to get a test of what they have to offer in the hopes it broadens my horizons as I become acquainted with the tech space. I have acquired foundational knowledge in Python and C++. Although (for now) I have looked at the basics of either, I'd like to potentially explore these languages or others to better my arsenal as I begin my entry into the tech industry.
 
-- A little interesting fact: As you can probably see to your left, that image is of the Santa Monica beach in California, aka my dream destination🤩
 </p>
 <br>
 
